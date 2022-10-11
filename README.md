@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardosimoess&label=Profile%20views&color=0e75b6&style=flat" alt="eduardosimoess" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardosimoess" alt="eduardosimoess" /></a> </p>
-
 - 📫 Fale comigo em **eduardorsimoes97@gmail.com**
 
 - 📄 Saiba um pouco mais sobre mim [https://www.linkedin.com/in/eduardosimoes97/](https://www.linkedin.com/in/eduardosimoes97/)
