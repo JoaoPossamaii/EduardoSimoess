@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Eduardo Simões</h1>
-<h3 align="center">Estudante de desenvolvimento Web e entusiasta do mundo tech!</h3>
+<h3 align="center">Desenvolvedor Back-end!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardosimoess&label=Profile%20views&color=0e75b6&style=flat" alt="eduardosimoess" /> </p>
 
