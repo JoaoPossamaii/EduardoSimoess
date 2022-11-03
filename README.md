@@ -1,5 +1,8 @@
 <h1 align="center">Olá 👋, meu nome é Eduardo Simões</h1>
 <h3 align="center">Desenvolvedor Back-end!</h3>
+<p>Sou apaixonado por tecnologia e pelo que o seu desenvolvimento proporciona a mim e a todos ao meu redor, por isso, decidi trazer todo backgruond numérico e lógico que adquiri com a engenharia para a área de programação.<p>
+
+ Hoje sou estudante da Trybe, uma escola focada em metodologias de ensino ativo, afim de despertar o máximo do meu potencial como desenvolvedor Web. Já finalizei os módulos de Fundamentos do desenvolvimento Web e Front-End, atualmente estou cursando o módulo de back-end.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardosimoess&label=Profile%20views&color=0e75b6&style=flat" alt="eduardosimoess" /> </p>
 
